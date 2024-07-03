@@ -1,1 +1,2 @@
 # FitnessBot
+The Fitness Advisor Chatbot is an interactive Command Line Interface (CLI) application designed to assist users with fitness-related inquiries. It leverages natural language processing to understand user queries about nutrition information, exercise recommendations, and fitness calculations like BMI and TDEE. The chatbot interacts with external APIs to fetch real-time data, providing users with accurate and personalized responses. It incorporates a feedback mechanism where users can evaluate the helpfulness of responses.
